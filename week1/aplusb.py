@@ -1,4 +1,5 @@
 # Uses python3
+# python3 aplusb.py <<< "3 5"
 import sys
 #input = sys.stdin.read()
 input = input("input: ")
